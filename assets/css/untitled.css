@@ -1,0 +1,20 @@
+#hero-bottom.container {
+}
+
+#info-container {
+  max-width: 800px;
+}
+
+.col.brdr-col {
+  border: 1.5px solid rgba(255,255,255,0.23);
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.col.brdr-col2 {
+  border: 1.5px solid rgba(255,255,255,0.23);
+  border-top: 0;
+  border-left: 0;
+  border-bottom: 0;
+}
+
